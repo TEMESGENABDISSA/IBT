@@ -9,46 +9,7 @@ The exercises are based on simple TeleBirr customer and transaction management s
 ---
 
 ## 📂 Project Structure
-
-```
-day02/
-│
-├── customer_report.py        # Customer tier classification program
-├── transaction_report.py     # Transaction file processing program
-├── transactions.txt          # Input transaction data
-├── report.txt                # Generated transaction summary
-├── practice.py               # Python fundamentals exercises
-└── README.md                 # Project documentation
-```
-
----
-
-# 🚀 Projects
-
-## 1. TeleBirr Customer Report
-
-### File:
-
-```
-customer_report.py
-```
-
-### Description
-
-A Python program that analyzes TeleBirr customer balances and assigns customers to different service tiers based on their account balance.
-
-### Tier Classification
-
-| Balance Range | Customer Tier |
-| ------------- | ------------- |
-| ≥ 1000 ETB    | Premium       |
-| ≥ 500 ETB     | Standard      |
-| < 500 ETB     | Basic         |
-
-### Features
-
-* Stores customer information using lists and tuples
-* Uses a function with a return value to determine customer tiers
+ c
 * Processes multiple customers using loops
 * Generates a customer tier summary
 * Uses conditional statements for decision making
